@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @v-dev01
 - 👀 I’m interested in ... Full stack Development
 - 🌱 I’m currently learning ... React JS
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... vasanthvdev@gmail.com
 
 <!---
